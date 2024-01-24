@@ -130,6 +130,12 @@ main {
   font-size: 0.875rem;
 }
 
+.bio__message {
+  text-align: center;
+  font-size: 0.875rem;
+  font-weight: 400;
+}
+
 a {
   color: var(--color-white);
 }/*# sourceMappingURL=style.css.map */
