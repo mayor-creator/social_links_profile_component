@@ -87,4 +87,14 @@ p {
 
 a {
   text-decoration: none;
+}
+
+body {
+  display: flex;
+  width: 90rem;
+  height: 60rem;
+  padding: 10.875rem 0rem 10.9375rem 0rem;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
 }/*# sourceMappingURL=style.css.map */
