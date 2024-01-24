@@ -34,3 +34,9 @@ img {
 p {
   margin: 0;
 }
+
+.wrapper {
+  width: min(100% - 2rem);
+  max-width: 384px;
+  margin-inline: auto;
+}
