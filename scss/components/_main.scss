@@ -1,0 +1,34 @@
+body {
+  background-color: var(--color-offBlack);
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-white);
+}
+
+main {
+  background-color: var(--color-darkGrey);
+  border-radius: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2.5rem;
+  flex-shrink: 0;
+
+}
+
+
+
+.location__title {
+  color: var(--color-white);
+}
+
+.location__description {
+  color: var(--color-green);
+}
+
+a {
+  color: var(--color-white)
+}
