@@ -109,6 +109,12 @@ main {
   padding: 2.5rem;
   flex-shrink: 0;
 }
+@media (max-width: 30em) {
+  main {
+    width: 20.4375rem;
+    padding: 1.5rem;
+  }
+}
 
 .location {
   display: flex;
