@@ -128,12 +128,14 @@ main {
   color: var(--color-white);
   font-weight: 600;
   font-size: 1.5rem;
+  text-align: center;
 }
 
 .location__description {
   color: var(--color-green);
   font-weight: 700;
   font-size: 0.875rem;
+  text-align: center;
 }
 
 .bio__message {
